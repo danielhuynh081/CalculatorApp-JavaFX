@@ -1,0 +1,114 @@
+#equalButton{
+    -fx-background-color: #fdb44b;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10px;
+    -fx-background-insets: 0;
+}
+#plusButton{
+    -fx-background-color: #352f44;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10px;
+    -fx-background-insets: 0;
+}
+
+#minusButton{
+    -fx-background-color: #352f44;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10px;
+    -fx-background-insets: 0;
+}
+
+#multButton{
+    -fx-background-color: #352f44;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10px;
+    -fx-background-insets: 0;
+}
+
+#divButton{
+    -fx-background-color: #352f44;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10px;
+    -fx-background-insets: 0;
+}
+
+#clearButton{
+    -fx-background-color: #ffcc00;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10px;
+    -fx-background-insets: 0;
+}
+
+.button{
+    -fx-background-color: #5c5470;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10px;
+    -fx-background-insets: 0;
+}
+
+.root{
+    -fx-background-color: grey;
+}
+
+.label{
+    -fx-background-color: #5c715e;
+    -fx-text-fill: #272121;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-radius: 10px;
+    -fx-background-insets: 0;
+}
